@@ -1,0 +1,5 @@
+react
+vite 
+tailwindcss
+react-toastify
+react-router-dom
