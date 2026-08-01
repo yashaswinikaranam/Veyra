@@ -3,3 +3,10 @@ vite
 tailwindcss
 react-toastify
 react-router-dom
+
+cors
+dotenv
+express
+jsonwebtoken
+
+mongoose multer nodemon razorpay stripe validator cloudinary bcrypt
